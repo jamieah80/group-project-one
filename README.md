@@ -16,10 +16,10 @@ Together, these questions would illustrate whether “Oscar Bait” actually exi
 
 We will utilise themoviedb.org  API to collect review scores and release dates, and cross reference with the database of winners and nominees found on AminFadaee/Academy-Awards-Data: Data for Academy Awards (github.com).
 
-Team members:
-Athul Madhusudhanan
-Daniel Daniel
-Essa Bostan
-Mujahid Iqbal
+Team members:  
+Athul Madhusudhanan  
+Daniel Daniel  
+Essa Bostan  
+Mujahid Iqbal  
 James Hanson
 
