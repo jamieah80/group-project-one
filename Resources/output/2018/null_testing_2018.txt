@@ -1,3 +1,3 @@
-T-Statistic: 11.30597446458255
-P-Value: 1.845020669018569e-13
+T-Statistic: 11.356925117316957
+P-Value: 1.583215901158544e-13
 Reject the null hypothesis. There is a significant difference in the average vote average between nominated and not nominated movies.
